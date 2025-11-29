@@ -1,6 +1,8 @@
 # Entrega-3-Base-de-Datos-
 Pasos improtantes:
 Ejecutar el codigo SQL para crear las tablas
+
+
 En el archivo "InventarioApp" en el siguiente codigo:
 
 
